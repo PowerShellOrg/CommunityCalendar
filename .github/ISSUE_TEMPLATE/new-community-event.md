@@ -2,7 +2,7 @@
 name: New Community Event
 about: Open an Issue to create an event
 title: "[New Community Event]"
-labels: ''
+labels: 'Community Event'
 assignees: ''
 
 ---
